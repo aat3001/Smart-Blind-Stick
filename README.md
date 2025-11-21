@@ -17,6 +17,9 @@ If an obstacle is detected within 15 cm, the buzzer activates to alert the user.
 - Add Bluetooth + mobile app feedback.
 - Add GPS navigation support.
 - Add rechargeable battery with USB charging.
+  
+## Project Images
+![Prototype](project1.jpg)
 
 ## Author
 Ayaan Anwar Thazhahatheil
