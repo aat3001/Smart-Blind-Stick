@@ -22,4 +22,4 @@ If an obstacle is detected within 15 cm, the buzzer activates to alert the user.
 ![Prototype](project1.jpg)
 
 ## Author
-Ayaan Anwar Thazhahatheil
+Ayaan Anwar Thazhathethil
